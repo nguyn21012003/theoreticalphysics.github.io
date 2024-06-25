@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Năm 3 on Vật lý Lý thuyết</title>
-    <link>http://localhost:1313/vn/tags/n%C4%83m-3/</link>
+    <link>https://nguyn21012003.github.io/nguyen.io/vn/tags/n%C4%83m-3/</link>
     <description>Recent content in Năm 3 on Vật lý Lý thuyết</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
@@ -10,12 +10,12 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Vật lý Lý Thuyết</copyright>
     <lastBuildDate>Tue, 18 Jun 2024 22:31:57 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/vn/tags/n%C4%83m-3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nguyn21012003.github.io/nguyen.io/vn/tags/n%C4%83m-3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lý thuyết nhóm</title>
-      <link>http://localhost:1313/vn/posts/ltn/</link>
+      <link>https://nguyn21012003.github.io/nguyen.io/vn/posts/ltn/</link>
       <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/vn/posts/ltn/</guid>
+      <guid>https://nguyn21012003.github.io/nguyen.io/vn/posts/ltn/</guid>
       <description>Lời mở đầu Chương 1 subsection Chapter 2 Chương 2 thì có cái gì hả \</description>
     </item>
   </channel>

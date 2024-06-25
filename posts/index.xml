@@ -2,35 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Theoretical Physics</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://nguyn21012003.github.io/nguyen.io/posts/</link>
     <description>Recent content in Posts on Theoretical Physics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Vật lý Lý Thuyết</copyright>
-    <lastBuildDate>Tue, 18 Jun 2024 22:32:13 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Theory of Many-Particle</title>
-      <link>http://localhost:1313/posts/mopt/</link>
-      <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/posts/mopt/</guid>
-      <description>Introductcion CHào mừng bạn đến với Vật lý Lý Thuyết enter&#xA;Nguyên ngu&#xA;nGuyengu&#xA;Check out my Facebook&#xD;.</description>
-    </item>
-    <item>
-      <title>Ltthd</title>
-      <link>http://localhost:1313/posts/gft/</link>
-      <pubDate>Tue, 18 Jun 2024 22:32:05 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/posts/gft/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lý thuyết nhóm</title>
-      <link>http://localhost:1313/posts/gt/</link>
-      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/posts/gt/</guid>
-      <description>Lời mở đầu CHào mừng bạn đến với&#xA;Nguyễn Nguyên Thuyết trình ư ơ ô ê đờ đẫn đãn&#xA;Visit the Facebook&#xD;website!</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://nguyn21012003.github.io/nguyen.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

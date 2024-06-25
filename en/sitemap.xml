@@ -2,114 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/k%C3%AC-2/</loc>
+    <loc>https://nguyn21012003.github.io/nguyen.io/posts/</loc>
     <lastmod>2024-06-18T22:32:13+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="http://localhost:1313/vn/tags/k%C3%AC-2/"
+                href="https://nguyn21012003.github.io/nguyen.io/vn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/k%C3%AC-2/"
+                href="https://nguyn21012003.github.io/nguyen.io/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/n%C4%83m-3/</loc>
+    <loc>https://nguyn21012003.github.io/nguyen.io/</loc>
     <lastmod>2024-06-18T22:32:13+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="http://localhost:1313/vn/tags/n%C4%83m-3/"
+                href="https://nguyn21012003.github.io/nguyen.io/vn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/n%C4%83m-3/"
+                href="https://nguyn21012003.github.io/nguyen.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.es/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.fr/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.hi/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.jp/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.pl/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.ru/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/search/_index.zh-cn/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/nguyen.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="http://localhost:1313/vn/posts/"
+                href="https://nguyn21012003.github.io/nguyen.io/vn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/posts/"
+                href="https://nguyn21012003.github.io/nguyen.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+    <loc>https://nguyn21012003.github.io/nguyen.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="http://localhost:1313/vn/tags/"
+                href="https://nguyn21012003.github.io/nguyen.io/vn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="http://localhost:1313/vn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/mopt/</loc>
-    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/gft/</loc>
-    <lastmod>2024-06-18T22:32:05+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/gt/</loc>
-    <lastmod>2024-06-18T22:31:57+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.es/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.fr/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.hi/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.jp/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.pl/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.ru/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/_index.zh-cn/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="http://localhost:1313/vn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                href="https://nguyn21012003.github.io/nguyen.io/tags/"
                 />
   </url>
 </urlset>
