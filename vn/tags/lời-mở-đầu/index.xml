@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lời Mở Đầu on Vật lý Lý thuyết</title>
+    <link>http://localhost:1313/vn/tags/l%E1%BB%9Di-m%E1%BB%9F-%C4%91%E1%BA%A7u/</link>
+    <description>Recent content in Lời Mở Đầu on Vật lý Lý thuyết</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Vật lý Lý Thuyết</copyright>
+    <lastBuildDate>Tue, 18 Jun 2024 22:31:57 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/vn/tags/l%E1%BB%9Di-m%E1%BB%9F-%C4%91%E1%BA%A7u/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lời mở đầu</title>
+      <link>http://localhost:1313/vn/about/about/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vn/about/about/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 \</description>
+    </item>
+  </channel>
+</rss>
