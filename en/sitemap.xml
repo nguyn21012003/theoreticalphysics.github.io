@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/k%C3%AC-2/</loc>
+    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/k%C3%AC-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/k%C3%AC-2/"
+                />
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/n%C4%83m-3/</loc>
+    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/n%C4%83m-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/n%C4%83m-3/"
+                />
+  </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/posts/</loc>
     <lastmod>2024-06-18T22:32:13+07:00</lastmod>
     <xhtml:link
@@ -13,6 +39,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://nguyn21012003.github.io/theoreticalphysics.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/</loc>
+    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/"
                 />
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/</loc>
@@ -27,6 +66,15 @@
                 hreflang="en-us"
                 href="https://nguyn21012003.github.io/theoreticalphysics.github.io/"
                 />
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/posts/mopt/</loc>
+    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/posts/gft/</loc>
+    <lastmod>2024-06-18T22:32:05+07:00</lastmod>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/posts/gt/</loc>
+    <lastmod>2024-06-18T22:31:57+07:00</lastmod>
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/</loc>
     <priority>0.1</priority>
@@ -62,18 +110,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://nguyn21012003.github.io/theoreticalphysics.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/"
                 />
   </url>
 </urlset>
