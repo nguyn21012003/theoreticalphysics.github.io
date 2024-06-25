@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vật lý Lý thuyết</title>
-    <link>https://nguyn21012003.github.io/nguyen.io/vn/categories/</link>
+    <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/categories/</link>
     <description>Recent content in Categories on Vật lý Lý thuyết</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Vật lý Lý Thuyết</copyright>
-    <atom:link href="https://nguyn21012003.github.io/nguyen.io/vn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theoretical Physics</title>
-    <link>https://nguyn21012003.github.io/nguyen.io/</link>
+    <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/</link>
     <description>Recent content on Theoretical Physics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,54 +10,54 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Vật lý Lý Thuyết</copyright>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nguyn21012003.github.io/nguyen.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nguyn21012003.github.io/theoreticalphysics.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.es/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.es/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.fr/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.fr/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.hi/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.hi/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.jp/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.jp/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.pl/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.pl/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.ru/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.ru/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://nguyn21012003.github.io/nguyen.io/search/_index.zh-cn/</link>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://nguyn21012003.github.io/nguyen.io/search/_index.zh-cn/</guid>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/search/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>
