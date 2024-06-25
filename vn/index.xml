@@ -19,6 +19,13 @@
       <description>CHào mừng bạn đến với</description>
     </item>
     <item>
+      <title>Ltthd</title>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltthd/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:05 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltthd/</guid>
+      <description>KHÔNG GIAN PHẲNG Tiên đề Euclid cho không gian Euclid Một không gian thõa được 5 tiên đề Euclid thì được gọi là không gian Euclid.&#xA;Khi mở rộng các đường thẳng song song ta được định nghĩa về không gian phẳng.&#xA;Không gian Euclid được miêu tả qua các tọa độ khác nhau Bình phương khoảng cách giữa 2 điểm liền kề trong không gian 2 chiều $(x,y)$ và $(x+dx,+y+dy)$ $$\begin{aligned} \label{eq1} ds^2 = dx^2 + dy^2</description>
+    </item>
+    <item>
       <title>Lời mở đầu</title>
       <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/about/about/</link>
       <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
