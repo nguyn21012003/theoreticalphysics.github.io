@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vis on Vật lý Lý Thuyết - Shut up and calculate</title>
+    <link>http://localhost:1313/vi/</link>
+    <description>Recent content in Vis on Vật lý Lý Thuyết - Shut up and calculate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Vật lý Lý Thuyết</copyright>
+    <lastBuildDate>Tue, 18 Jun 2024 22:32:13 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lý Thuyết Hệ Nhiều Hạt</title>
+      <link>http://localhost:1313/vi/posts/gft/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/gft/</guid>
+      <description>CHào mừng bạn đến với</description>
+    </item>
+    <item>
+      <title>Lý Thuyết Hệ Nhiều Hạt</title>
+      <link>http://localhost:1313/vi/posts/l%C3%BD-thuy%E1%BA%BFt-h%E1%BB%87-nhi%E1%BB%81u-h%E1%BA%A1t/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/l%C3%BD-thuy%E1%BA%BFt-h%E1%BB%87-nhi%E1%BB%81u-h%E1%BA%A1t/</guid>
+      <description>CHào mừng bạn đến với</description>
+    </item>
+    <item>
+      <title>Seminar Lý Thuyết Trường Hấp dẫn</title>
+      <link>http://localhost:1313/vi/posts/seminargft/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/seminargft/</guid>
+      <description>MỘT CHÚT KHÔNG GIAN PHẲNG Đạo hàm hiệp biến của tensor metric trong không gian phẳng Ta có vector $ e^2 $ bất kì trong tọa độ bất kì sẽ luôn viết được dưới dạng:&#xA;$$ \begin{equation} V_{\alpha&amp;rsquo;} = g_{\alpha&amp;rsquo;\mu&amp;rsquo;}V^{\mu&amp;rsquo;}, \end{equation} $$</description>
+    </item>
+    <item>
+      <title>Ltthd</title>
+      <link>http://localhost:1313/vi/posts/cltu/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:05 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/cltu/</guid>
+      <description>KHÔNG GIAN PHẲNG Tiên đề Euclid cho không gian Euclid Một không gian thõa được 5 tiên đề Euclid thì được gọi là không gian Euclid.&#xA;Khi mở rộng các đường thẳng song song ta được định nghĩa về không gian phẳng.&#xA;Không gian Euclid được miêu tả qua các tọa độ khác nhau Bình phương khoảng cách giữa 2 điểm liền kề trong không gian 2 chiều $(x,y)$ và $(x+dx,+y+dy)$ $$\begin{aligned} \label{eq1} ds^2 = dx^2 + dy^2</description>
+    </item>
+    <item>
+      <title>Ltthd</title>
+      <link>http://localhost:1313/vi/posts/ltthd/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:05 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/ltthd/</guid>
+      <description>KHÔNG GIAN PHẲNG Tiên đề Euclid cho không gian Euclid Một không gian thõa được 5 tiên đề Euclid thì được gọi là không gian Euclid.&#xA;Khi mở rộng các đường thẳng song song ta được định nghĩa về không gian phẳng.&#xA;Không gian Euclid được miêu tả qua các tọa độ khác nhau Bình phương khoảng cách giữa 2 điểm liền kề trong không gian 2 chiều $(x,y)$ và $(x+dx,+y+dy)$ $$\begin{aligned} \label{eq1} ds^2 = dx^2 + dy^2</description>
+    </item>
+    <item>
+      <title>Lời mở đầu</title>
+      <link>http://localhost:1313/vi/about/about/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/about/about/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 \</description>
+    </item>
+    <item>
+      <title>ltcr</title>
+      <link>http://localhost:1313/vi/posts/ltcr/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/ltcr/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 Chương 2 thì có cái gì hả $ e^2 $&#xA;Examples Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\) Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
+    </item>
+    <item>
+      <title>Lý thuyết nhóm</title>
+      <link>http://localhost:1313/vi/posts/ltn/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/vi/posts/ltn/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 Chương 2 thì có cái gì hả \</description>
+    </item>
+  </channel>
+</rss>

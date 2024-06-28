@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/gft/</loc>
+    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/posts/gft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/gft/"
+                />
+  </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/l%C3%BD-thuy%E1%BA%BFt-h%E1%BB%87-nhi%E1%BB%81u-h%E1%BA%A1t/</loc>
     <lastmod>2024-06-18T22:32:13+07:00</lastmod>
   </url><url>
@@ -18,6 +31,9 @@
                 href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/"
                 />
   </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/seminargft/</loc>
+    <lastmod>2024-06-18T22:32:13+07:00</lastmod>
+  </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/</loc>
     <lastmod>2024-06-18T22:32:13+07:00</lastmod>
     <xhtml:link
@@ -31,14 +47,37 @@
                 href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/"
                 />
   </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/cltu/</loc>
+    <lastmod>2024-06-18T22:32:05+07:00</lastmod>
+  </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltthd/</loc>
     <lastmod>2024-06-18T22:32:05+07:00</lastmod>
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/about/</loc>
     <lastmod>2024-06-18T22:31:57+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/about/"
+                />
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/b%E1%BA%A3n-quy%E1%BB%81n/</loc>
     <lastmod>2024-06-18T22:31:57+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/b%E1%BA%A3n-quy%E1%BB%81n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/b%E1%BA%A3n-quy%E1%BB%81n/"
+                />
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/k%C3%AC-2/</loc>
     <lastmod>2024-06-18T22:31:57+07:00</lastmod>
@@ -55,8 +94,34 @@
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/about/about/</loc>
     <lastmod>2024-06-18T22:31:57+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/about/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/about/about/"
+                />
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/l%E1%BB%9Di-m%E1%BB%9F-%C4%91%E1%BA%A7u/</loc>
+    <lastmod>2024-06-18T22:31:57+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/tags/l%E1%BB%9Di-m%E1%BB%9F-%C4%91%E1%BA%A7u/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/l%E1%BB%9Di-m%E1%BB%9F-%C4%91%E1%BA%A7u/"
+                />
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltcr/</loc>
+    <lastmod>2024-06-18T22:31:57+07:00</lastmod>
+  </url><url>
+    <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/l%C3%BD/</loc>
     <lastmod>2024-06-18T22:31:57+07:00</lastmod>
   </url><url>
     <loc>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltn/</loc>

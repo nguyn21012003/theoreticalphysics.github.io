@@ -12,6 +12,13 @@
     <lastBuildDate>Tue, 18 Jun 2024 22:31:57 +0700</lastBuildDate>
     <atom:link href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/tags/k%C3%AC-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ltcr</title>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltcr/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltcr/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 Chương 2 thì có cái gì hả $ e^2 $&#xA;Examples Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\) Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
+    </item>
+    <item>
       <title>Lý thuyết nhóm</title>
       <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltn/</link>
       <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>

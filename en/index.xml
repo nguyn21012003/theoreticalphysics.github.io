@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theoretical Physics</title>
+    <title>Ens on Vật lý Lý Thuyết - Shut up and calculate</title>
     <link>http://localhost:1313/en/</link>
-    <description>Recent content on Theoretical Physics</description>
+    <description>Recent content in Ens on Vật lý Lý Thuyết - Shut up and calculate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
@@ -24,6 +24,13 @@
       <pubDate>Tue, 18 Jun 2024 22:32:05 +0700</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://localhost:1313/en/posts/gft/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/en/about/about/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/en/about/about/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 \</description>
     </item>
     <item>
       <title>Lý thuyết nhóm</title>

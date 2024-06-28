@@ -13,10 +13,31 @@
     <atom:link href="https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lý Thuyết Hệ Nhiều Hạt</title>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/gft/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/gft/</guid>
+      <description>CHào mừng bạn đến với</description>
+    </item>
+    <item>
+      <title>Lý Thuyết Hệ Nhiều Hạt</title>
       <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/l%C3%BD-thuy%E1%BA%BFt-h%E1%BB%87-nhi%E1%BB%81u-h%E1%BA%A1t/</link>
       <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/l%C3%BD-thuy%E1%BA%BFt-h%E1%BB%87-nhi%E1%BB%81u-h%E1%BA%A1t/</guid>
       <description>CHào mừng bạn đến với</description>
+    </item>
+    <item>
+      <title>Seminar Lý Thuyết Trường Hấp dẫn</title>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/seminargft/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:13 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/seminargft/</guid>
+      <description>MỘT CHÚT KHÔNG GIAN PHẲNG Đạo hàm hiệp biến của tensor metric trong không gian phẳng Ta có vector $ e^2 $ bất kì trong tọa độ bất kì sẽ luôn viết được dưới dạng:&#xA;$$ \begin{equation} V_{\alpha&amp;rsquo;} = g_{\alpha&amp;rsquo;\mu&amp;rsquo;}V^{\mu&amp;rsquo;}, \end{equation} $$</description>
+    </item>
+    <item>
+      <title>Ltthd</title>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/cltu/</link>
+      <pubDate>Tue, 18 Jun 2024 22:32:05 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/cltu/</guid>
+      <description>KHÔNG GIAN PHẲNG Tiên đề Euclid cho không gian Euclid Một không gian thõa được 5 tiên đề Euclid thì được gọi là không gian Euclid.&#xA;Khi mở rộng các đường thẳng song song ta được định nghĩa về không gian phẳng.&#xA;Không gian Euclid được miêu tả qua các tọa độ khác nhau Bình phương khoảng cách giữa 2 điểm liền kề trong không gian 2 chiều $(x,y)$ và $(x+dx,+y+dy)$ $$\begin{aligned} \label{eq1} ds^2 = dx^2 + dy^2</description>
     </item>
     <item>
       <title>Ltthd</title>
@@ -31,6 +52,13 @@
       <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/about/about/</guid>
       <description>Lời mở đầu Chương 1 subsection Chapter 2 \</description>
+    </item>
+    <item>
+      <title>ltcr</title>
+      <link>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltcr/</link>
+      <pubDate>Tue, 18 Jun 2024 22:31:57 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://nguyn21012003.github.io/theoreticalphysics.github.io/vn/posts/ltcr/</guid>
+      <description>Lời mở đầu Chương 1 subsection Chapter 2 Chương 2 thì có cái gì hả $ e^2 $&#xA;Examples Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\) Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
     </item>
     <item>
       <title>Lý thuyết nhóm</title>
